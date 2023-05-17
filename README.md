@@ -1,4 +1,4 @@
-<center><img src="https://leetcode.com/static/images/LeetCode_Sharing.png"></center>
+<img src="https://leetcode.com/static/images/LeetCode_Sharing.png" style="display: block; margin-left: auto; margin-right: auto; width: 50%;">
   
 # 80. Remove Duplicates from Sorted Array II
 Given an integer array `nums` sorted in **non-decreasing order**, remove some duplicates in-place such that each unique element appears **at most twice**. The **relative order** of the elements should be kept the same.
