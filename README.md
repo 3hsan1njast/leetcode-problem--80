@@ -5,4 +5,5 @@ Since it is impossible to change the length of the array in some languages, you 
 
 Return `k` after placing the final result in the first `k` slots of `nums`.
 
+## Full description
 https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/
