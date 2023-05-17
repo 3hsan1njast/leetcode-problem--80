@@ -7,4 +7,4 @@ Return `k` after placing the final result in the first `k` slots of `nums`.
 
 ## Full description
 <img src="https://leetcode.com/static/images/LeetCode_Sharing.png">
-Click here ☞ https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/
+Click here ☞ https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii
