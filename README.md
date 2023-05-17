@@ -1,7 +1,3 @@
-<div>
-  <img src="https://leetcode.com/static/images/LeetCode_Sharing.png">
-</div>
-  
 # 80. Remove Duplicates from Sorted Array II
 Given an integer array `nums` sorted in **non-decreasing order**, remove some duplicates in-place such that each unique element appears **at most twice**. The **relative order** of the elements should be kept the same.
 
@@ -10,4 +6,5 @@ Since it is impossible to change the length of the array in some languages, you 
 Return `k` after placing the final result in the first `k` slots of `nums`.
 
 ## Full description
+<img src="https://leetcode.com/static/images/LeetCode_Sharing.png">
 ☞ https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/
